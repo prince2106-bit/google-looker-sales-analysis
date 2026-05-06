@@ -1,0 +1,7 @@
+month_id,month_name,day_type,avg_daily_sales
+10,October,Weekday,1149573.1142857142
+10,October,Weekend,997116.1818181818
+11,November,Weekday,1287935.5681818181
+11,November,Weekend,1046215.8620689656
+12,December,Weekday,963234.8095238095
+12,December,Weekend,1008579.9310344828
