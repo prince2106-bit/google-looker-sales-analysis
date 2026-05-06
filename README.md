@@ -25,4 +25,4 @@ Contains e-commerce transactional data with fields:
 - year, month_id, day_name
 
 ## Looker Studio Dashboard
-[Add your Looker Studio link here]
+[https://datastudio.google.com/reporting/756a6cfd-536e-434f-8b16-87519bbfb387]
